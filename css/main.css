@@ -567,25 +567,10 @@ a {
   }
 }
 /* end footer */
+/* end page one */
 
 /* Start Global Rules */
-* {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
-}
-html {
-  scroll-behavior: smooth;
-  font-family: "roboto", sans-serif;
-}
-body {
-  /* background-color: #93a3b5; */
-}
-ul {
-  list-style: none;
-}
+
 .container {
   margin-left: auto;
   margin-right: auto;
@@ -883,24 +868,8 @@ ul {
   z-index: 2;
   transition: all 0.3s ease-in-out;
 }
+/* end page two */
 
-/* Start Global Rules */
-* {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
-}
-html {
-  scroll-behavior: smooth;
-}
-body {
-  font-family: "Roboto", sans-serif;
-}
-ul {
-  list-style: none;
-}
 .container {
   margin-left: auto;
   margin-right: auto;
@@ -1331,27 +1300,8 @@ ul {
   }
 }
 
-/* Start Global Rules */
-* {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
-}
-html {
-  scroll-behavior: smooth;
-  font-family: "Roboto", sans-serif;
-}
-body {
-  /* background-color: #93a3b5; */
-}
-ul {
-  list-style: none;
-}
-a {
-  text-decoration: none;
-}
+/* end page 3 */
+
 .container {
   margin-left: auto;
   margin-right: auto;
@@ -1536,3 +1486,4 @@ a {
   }
 }
 /* end footer */
+/* end error */
