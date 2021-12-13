@@ -1,0 +1,14 @@
+{
+  "name": "josephina-project-master-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "concat:css": "concat -o css/style.concat.css css/style.css css/menu2.css css/menu3.css css/error.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concat": "^1.0.3"
+  }
+}
